@@ -15,7 +15,7 @@ u0 = [6.0,8.0,10.0]
 p = [10.0, 28.0, 8.0/3.0]
 
 # Define the time span
-tfinal = 40.0
+tfinal = 60.0
 tspan = (0.0, tfinal)
 
 # Solve the ODE
